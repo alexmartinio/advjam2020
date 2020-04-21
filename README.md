@@ -1,4 +1,4 @@
-# advjam2020
+# Adventure Jam 2020
 Ghostly Cat Lady! - Adventure Jam 2020
 
 ## Guide
