@@ -36,9 +36,23 @@ jobs:
         uses: webbertakken/unity-builder@v0.10
         with:
           unityVersion: 2019.2.6f1
-          targetPlatform: WebGL 
+          targetPlatform: WebGL
+          
+      # Build
+      - name: Build project
+        uses: webbertakken/unity-builder@v0.10
+        with:
+          unityVersion: 2019.2.6f1
+          targetPlatform: StandaloneWindows64
 
-      # Output 
+      # Build
+      - name: Build project
+        uses: webbertakken/unity-builder@v0.10
+        with:
+          unityVersion: 2019.2.6f1
+          targetPlatform: StandaloneOSX
+
+      # Output
       - uses: actions/upload-artifact@v1
         with:
           name: Build
