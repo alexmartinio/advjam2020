@@ -10,6 +10,7 @@ public class Object : MonoBehaviour
     {
         spriteRender = gameObject.GetComponent<SpriteRenderer>();
     }
+
     public void Execute()
     {
         if (change_colour)
@@ -23,4 +24,12 @@ public class Object : MonoBehaviour
             change_colour = true;
         }
     }
+
+    private void Update()
+    {
+        if(!change_colour)
+            transform.Translate(5f * Time.deltaTime, 0, 0);
+    }
+
+
 }
