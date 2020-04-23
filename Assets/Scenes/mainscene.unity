@@ -286,8 +286,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 732d2ba4a74cfcb48a3aa48df9227115, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delta: 50
-  speed: 3
+  dragSpeed: 2
+  cameraDragging: 1
   leftLimit: {fileID: 1056812045}
   rightLimit: {fileID: 50965668}
 --- !u!1 &908719814

@@ -4,41 +4,66 @@ using UnityEngine;
 
 public class CameraMove : MonoBehaviour
 {
-    public float delta = 10f; //  Pixels. The width border at the edge in which the movement work
-    public float speed = 3.0f; // Scale. Speed of the movement
+    public float dragSpeed = 1;
+    private Vector3 dragOrigin;
+
+    public bool cameraDragging = true;
+
 
     public GameObject leftLimit;
     public GameObject rightLimit;
 
-    private Vector3 mRightDirection ; // The inital "right" of the camera
-
-    void Start()
-    {
-        mRightDirection = transform.right;
-    }
-
     // Update is called once per frame
     void Update()
     {
-        if (Input.mousePosition.x >= Screen.width - delta)
+        Vector2 mousePosition = new Vector2(Input.mousePosition.x, Input.mousePosition.y);
+
+        // Calculate left and right
+        float left = Screen.width * 0.2f;
+        float right = Screen.width - (Screen.width * 0.2f);
+
+        // Determine if the camera is moving
+        if (mousePosition.x < left)
         {
-            if(transform.position.x <= leftLimit.transform.position.x)
-            {
-                // Move the camera
-                transform.position += mRightDirection * Time.deltaTime * speed;
-            }
-            
+            cameraDragging = true;
+        }
+        else if (mousePosition.x > right)
+        {
+            cameraDragging = true;
         }
 
-        if (Input.mousePosition.x <= 0 + delta)
+        if (cameraDragging)
         {
-            if(transform.position.x >= rightLimit.transform.position.x)
+            // If left mouse btn is pressed
+            // take mouse position
+            if (Input.GetMouseButtonDown(0))
             {
-                // Move the camera
-                transform.position -= mRightDirection * Time.deltaTime * speed;
+                dragOrigin = Input.mousePosition;
+                return;
             }
 
-        }
+            // If mouse is let go exit function
+            if (!Input.GetMouseButton(0)) return;
 
+            Vector3 pos = Camera.main.ScreenToViewportPoint(Input.mousePosition - dragOrigin);
+            Vector3 move = new Vector3(pos.x * dragSpeed, 0, 0);
+
+            // Which way to move
+            if (move.x > 0f)
+            {
+                if (this.transform.position.x < rightLimit.transform.position.x)
+                {
+                    // invert move to follow in same direction
+                    transform.Translate(move, Space.World);
+                }
+            }
+            else
+            {
+                if (this.transform.position.x > leftLimit.transform.position.x)
+                {
+                    transform.Translate(move, Space.World);
+                }
+            }
+        }
     }
 }
