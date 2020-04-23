@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 50965669}
   - component: {fileID: 50965670}
   m_Layer: 0
-  m_Name: CameraLimitRight
+  m_Name: CameraLimitLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -288,8 +288,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dragSpeed: 2
   cameraDragging: 1
-  leftLimit: {fileID: 1056812045}
-  rightLimit: {fileID: 50965668}
+  leftLimit: {fileID: 50965668}
+  rightLimit: {fileID: 1056812045}
 --- !u!1 &908719814
 GameObject:
   m_ObjectHideFlags: 0
@@ -421,7 +421,7 @@ GameObject:
   - component: {fileID: 1056812046}
   - component: {fileID: 1056812047}
   m_Layer: 0
-  m_Name: CameraLimitLeft
+  m_Name: CameraLimitRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
