@@ -1,44 +1,51 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-
+﻿using UnityEngine;
+using System.Collections;
+using System;
+ 
 public class CameraMove : MonoBehaviour
 {
-    public float delta = 10f; //  Pixels. The width border at the edge in which the movement work
-    public float speed = 3.0f; // Scale. Speed of the movement
 
-    public GameObject leftLimit;
-    public GameObject rightLimit;
-
-    private Vector3 mRightDirection ; // The inital "right" of the camera
-
-    void Start()
-    {
-        mRightDirection = transform.right;
-    }
-
-    // Update is called once per frame
     void Update()
     {
-        if (Input.mousePosition.x >= Screen.width - delta)
-        {
-            if(transform.position.x <= leftLimit.transform.position.x)
-            {
-                // Move the camera
-                transform.position += mRightDirection * Time.deltaTime * speed;
-            }
-            
-        }
+        if (_State == State.None && Input.GetMouseButtonDown(0)) InitDrag();
 
-        if (Input.mousePosition.x <= 0 + delta)
-        {
-            if(transform.position.x >= rightLimit.transform.position.x)
-            {
-                // Move the camera
-                transform.position -= mRightDirection * Time.deltaTime * speed;
-            }
+        if (_State == State.Dragging && Input.GetMouseButton(0)) MoveCamera();
 
-        }
+        if (_State == State.Dragging && Input.GetMouseButtonUp(0)) FinishDrag();
+    }
 
+    #region Calculations
+    public State _State = State.None;
+    public Vector3 _DragStartPos;
+
+    private void InitDrag()
+    {
+        _DragStartPos = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, 0f, -10f));
+
+        _State = State.Dragging;
+    }
+
+    private void MoveCamera()
+    {
+        Vector3 actualPos = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, 0f, -10f));
+        Vector3 dragDelta = actualPos - _DragStartPos;
+
+
+        if (Math.Abs(dragDelta.x) < 0.00001f && Math.Abs(dragDelta.y) < 0.00001f) return;
+
+        Camera.main.transform.Translate(-dragDelta.x, 0f, 0f);
+
+    }
+
+    private void FinishDrag()
+    {
+        _State = State.None;
+    }
+    #endregion
+
+    public enum State
+    {
+        None,
+        Dragging
     }
 }

@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 50965669}
   - component: {fileID: 50965670}
   m_Layer: 0
-  m_Name: CameraLimitLeft
+  m_Name: CameraLimitRight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -145,7 +145,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 50965668}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 584, y: 0, z: -10}
+  m_LocalPosition: {x: 580.9, y: 0.51, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1384266750}
@@ -188,7 +188,6 @@ GameObject:
   - component: {fileID: 519420032}
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
-  - component: {fileID: 519420030}
   - component: {fileID: 519420033}
   m_Layer: 0
   m_Name: Main Camera
@@ -205,18 +204,6 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
---- !u!114 &519420030
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 519420028}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f7a8870cee3c5a74fb901de2388802d8, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0
@@ -286,10 +273,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 732d2ba4a74cfcb48a3aa48df9227115, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  delta: 50
-  speed: 100
-  leftLimit: {fileID: 50965668}
-  rightLimit: {fileID: 1056812045}
+  dragSpeed: 10
+  cameraDragging: 1
+  leftLimit: {fileID: 1056812045}
+  rightLimit: {fileID: 50965668}
 --- !u!1 &908719814
 GameObject:
   m_ObjectHideFlags: 0
@@ -392,8 +379,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 908719814}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 179.5, y: 147, z: 0}
+  m_LocalScale: {x: 22.752985, y: 22.752985, z: 22.752985}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
@@ -421,7 +408,7 @@ GameObject:
   - component: {fileID: 1056812046}
   - component: {fileID: 1056812047}
   m_Layer: 0
-  m_Name: CameraLimitRight
+  m_Name: CameraLimitLeft
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -434,8 +421,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1056812045}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 185, y: 0, z: -10}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 180, y: 0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1384266750}
