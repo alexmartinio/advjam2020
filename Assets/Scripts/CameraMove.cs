@@ -29,7 +29,6 @@ public class CameraMove : MonoBehaviour
     {
         Vector3 actualPos = Camera.main.ScreenToWorldPoint(new Vector3(Input.mousePosition.x, 0f, -10f));
         Vector3 dragDelta = actualPos - _DragStartPos;
-        Debug.Log(actualPos);
 
         if (Math.Abs(dragDelta.x) < 0.00001f ) return;
 
