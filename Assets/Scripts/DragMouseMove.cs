@@ -20,7 +20,5 @@ public class DragMouseMove : MonoBehaviour
         mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         direction = (mousePosition - transform.position).normalized;
         rb.velocity = new Vector2(direction.x * moveSpeed, direction.y * moveSpeed);
-        Debug.Log(rb.worldCenterOfMass);
-        Debug.Log(transform.position);
     }
 }
