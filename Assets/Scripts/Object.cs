@@ -6,30 +6,19 @@ public class Object : MonoBehaviour
 {
     SpriteRenderer spriteRender;
     bool change_colour = true;
+
+    Animator animControl;
     private void Start()
     {
         spriteRender = gameObject.GetComponent<SpriteRenderer>();
+        animControl = gameObject.GetComponent<Animator>();
     }
 
-    public void Execute()
+    /* Function to play animations,
+     * Function expects the truggerNane (set in animator control) and a state (true/falls)
+     */
+    public void Execute(string triggerName, bool state)
     {
-        if (change_colour)
-        {
-            spriteRender.color = new Color(1, 0, 0, 1);
-            change_colour = false;
-        }
-        else
-        {
-            spriteRender.color = new Color(1, 1, 1, 1);
-            change_colour = true;
-        }
+        animControl.SetBool(triggerName, state);
     }
-
-    private void Update()
-    {
-        if(!change_colour)
-            transform.Translate(5f * Time.deltaTime, 0, 0);
-    }
-
-
 }
