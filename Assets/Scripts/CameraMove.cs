@@ -4,6 +4,7 @@ using System;
  
 public class CameraMove : MonoBehaviour
 {
+    [SerializeField] float keyboardDragSpeed = 200;
 
     void Update()
     {
@@ -12,6 +13,23 @@ public class CameraMove : MonoBehaviour
         if (_State == State.Dragging && Input.GetMouseButton(0)) MoveCamera();
 
         if (_State == State.Dragging && Input.GetMouseButtonUp(0)) FinishDrag();
+
+
+        if(Input.GetKey(KeyCode.LeftArrow))
+        {
+            transform.Translate(-1 * Time.deltaTime * keyboardDragSpeed, 0f, 0f);
+        }
+        else if (Input.GetKey(KeyCode.RightArrow))
+        {
+            transform.Translate(1 * Time.deltaTime * keyboardDragSpeed, 0f, 0f);
+        }
+
+        // clamp camera
+        transform.position = new Vector3(
+            Mathf.Clamp(transform.position.x, 180, 582),
+            transform.position.y,
+            transform.position.z
+        );
     }
 
     #region Calculations
@@ -33,13 +51,6 @@ public class CameraMove : MonoBehaviour
         if (Math.Abs(dragDelta.x) < 0.00001f ) return;
 
         Camera.main.transform.Translate(-dragDelta.x, 0f, 0f);
-
-        // clamp camera
-        transform.position = new Vector3(
-            Mathf.Clamp(transform.position.x, 180, 582),
-            transform.position.y,
-            transform.position.z
-        );
     }
 
     private void FinishDrag()
