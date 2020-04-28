@@ -6,7 +6,25 @@ public class GameSateManager : MonoBehaviour
 {
     [SerializeField] GameObject cuckoo;
     [SerializeField] GameObject geoffrey;
+    [SerializeField] GameObject tv;
     // Update is called once per frame
+
+    bool tvOn = false;
+    bool channelSwitched = false;
+
+    // Cached objects
+    Object _tv;
+    Object _geoffrey;
+    Object _cuckoo;
+
+    private void Start()
+    {
+        // Cache the objects so it would run faster
+        _tv = tv.GetComponent<Object>();
+        _geoffrey = geoffrey.GetComponent<Object>();
+        _cuckoo = cuckoo.GetComponent<Object>();
+
+    }
 
     RaycastHit2D hitDetection()
     {
@@ -18,6 +36,7 @@ public class GameSateManager : MonoBehaviour
         return hit;
     }
 
+
     void Update()
     {
         if(Input.GetMouseButtonDown(0))
@@ -27,11 +46,33 @@ public class GameSateManager : MonoBehaviour
             {
                 if ((hit.collider.gameObject.GetComponent("Object") as Object) != null)
                 {
-                    Debug.Log(hit.collider.gameObject.name);
                     if(hit.collider.gameObject.name == "Cuckoo")
                     {
-                        geoffrey.GetComponent<Object>().Execute("Awake", true);
-                        cuckoo.GetComponent<Object>().Execute("ChangeColor", true);
+                        _geoffrey.Execute("Awake", true);
+                        _cuckoo.Execute("ChangeColor", true);
+                    }
+
+                    if(hit.collider.gameObject.name == "Remote")
+                    {
+                        if (tvOn)
+                        {
+                            _tv.Execute("switchChannel", true);
+                            if(channelSwitched)
+                            {
+                                _tv.Execute("switchChannel", false);
+                                channelSwitched = false;
+                            }
+                            else
+                            {
+                                _tv.Execute("switchChannel", true);
+                                channelSwitched = true;
+                            }
+                        }
+                        else if(!tvOn)
+                        {
+                            _tv.Execute("tvOn", true);
+                        }    
+                        tvOn = true;
                     }
                 }
             }   
