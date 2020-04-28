@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GameSateManager : MonoBehaviour
+public class GameStateManager : MonoBehaviour
 {
     [SerializeField] GameObject cuckoo;
     [SerializeField] GameObject geoffrey;
@@ -35,7 +35,6 @@ public class GameSateManager : MonoBehaviour
 
         return hit;
     }
-
 
     void Update()
     {
