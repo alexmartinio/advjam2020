@@ -1,0 +1,1507 @@
+fileFormatVersion: 2
+guid: 048668a3791394a4e98d84589701273f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3471697799423589810
+    second: G_wakingUp_53x122_0
+  - first:
+      213: 9083952724911405766
+    second: G_wakingUp_53x122_1
+  - first:
+      213: 6893361441687352220
+    second: G_wakingUp_53x122_2
+  - first:
+      213: 290805172618840150
+    second: G_wakingUp_53x122_3
+  - first:
+      213: 359371450633978411
+    second: G_wakingUp_53x122_4
+  - first:
+      213: -7001649357127420294
+    second: G_wakingUp_53x122_5
+  - first:
+      213: -1263251365012404221
+    second: G_wakingUp_53x122_6
+  - first:
+      213: 8714535890217141650
+    second: G_wakingUp_53x122_7
+  - first:
+      213: -6459587778041208563
+    second: G_wakingUp_53x122_8
+  - first:
+      213: -8905518888901241549
+    second: G_wakingUp_53x122_9
+  - first:
+      213: -3273516724608038862
+    second: G_wakingUp_53x122_10
+  - first:
+      213: 8307259626448512298
+    second: G_wakingUp_53x122_11
+  - first:
+      213: 4022948141334729829
+    second: G_wakingUp_53x122_12
+  - first:
+      213: 5010958268856643236
+    second: G_wakingUp_53x122_13
+  - first:
+      213: -5765366930920884461
+    second: G_wakingUp_53x122_14
+  - first:
+      213: 2361292505297878331
+    second: G_wakingUp_53x122_15
+  - first:
+      213: -1278046184252011559
+    second: G_wakingUp_53x122_16
+  - first:
+      213: 3222716654572793344
+    second: G_wakingUp_53x122_17
+  - first:
+      213: -6611381964626868671
+    second: G_wakingUp_53x122_18
+  - first:
+      213: -3709598814106050651
+    second: G_wakingUp_53x122_19
+  - first:
+      213: 2312744958667824929
+    second: G_wakingUp_53x122_20
+  - first:
+      213: -5483830026582149749
+    second: G_wakingUp_53x122_21
+  - first:
+      213: -1050456764586450486
+    second: G_wakingUp_53x122_22
+  - first:
+      213: -9055987866052729775
+    second: G_wakingUp_53x122_23
+  - first:
+      213: -8978648192433255264
+    second: G_wakingUp_53x122_24
+  - first:
+      213: 7740273716830408070
+    second: G_wakingUp_53x122_25
+  - first:
+      213: -4089182967809399075
+    second: G_wakingUp_53x122_26
+  - first:
+      213: -5923084818187132897
+    second: G_wakingUp_53x122_27
+  - first:
+      213: 8602706869405745728
+    second: G_wakingUp_53x122_28
+  - first:
+      213: 9175630203140119064
+    second: G_wakingUp_53x122_29
+  - first:
+      213: -8041944459214742669
+    second: G_wakingUp_53x122_30
+  - first:
+      213: -1831395620574857332
+    second: G_wakingUp_53x122_31
+  - first:
+      213: -1727532501927671132
+    second: G_wakingUp_53x122_32
+  - first:
+      213: -11088227290373382
+    second: G_wakingUp_53x122_33
+  - first:
+      213: -5820910526283354777
+    second: G_wakingUp_53x122_34
+  - first:
+      213: 8317306485998705724
+    second: G_wakingUp_53x122_35
+  - first:
+      213: -3670668105566522803
+    second: G_wakingUp_53x122_36
+  - first:
+      213: -7736887729412668611
+    second: G_wakingUp_53x122_37
+  - first:
+      213: 629591901138506955
+    second: G_wakingUp_53x122_38
+  - first:
+      213: -1664595415321265732
+    second: G_wakingUp_53x122_39
+  - first:
+      213: -7734562384063466640
+    second: G_wakingUp_53x122_40
+  - first:
+      213: -736150469901911445
+    second: G_wakingUp_53x122_41
+  - first:
+      213: 4215310190998729822
+    second: G_wakingUp_53x122_42
+  - first:
+      213: -3723557710411105613
+    second: G_wakingUp_53x122_43
+  - first:
+      213: 5328382096227080022
+    second: G_wakingUp_53x122_44
+  - first:
+      213: 5768240220001875836
+    second: G_wakingUp_53x122_45
+  - first:
+      213: -2492987682478087330
+    second: G_wakingUp_53x122_46
+  - first:
+      213: -8639248329784155305
+    second: G_wakingUp_53x122_47
+  - first:
+      213: 3703869547882431060
+    second: G_wakingUp_53x122_48
+  - first:
+      213: -4814047900631977629
+    second: G_wakingUp_53x122_49
+  - first:
+      213: -6573731984864311702
+    second: G_wakingUp_53x122_50
+  - first:
+      213: 26655933636359967
+    second: G_wakingUp_53x122_51
+  - first:
+      213: -725981649049106499
+    second: G_wakingUp_53x122_52
+  - first:
+      213: 4309661037085161086
+    second: G_wakingUp_53x122_53
+  - first:
+      213: 3405880237892760738
+    second: G_wakingUp_53x122_54
+  - first:
+      213: -7099961015527197480
+    second: G_wakingUp_53x122_55
+  - first:
+      213: 6250432643472231827
+    second: G_wakingUp_53x122_56
+  - first:
+      213: -2450818672510085679
+    second: G_wakingUp_53x122_57
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 854
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9064711646064459d75a6e31fd06d8
+      internalID: 3471697799423589810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 854
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfde62e92c6f654ea1250294cfae264
+      internalID: 9083952724911405766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 854
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecda550ca3791345913c11305b16a0c
+      internalID: 6893361441687352220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 854
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c1c609f5c917148b2189ae91720f7f
+      internalID: 290805172618840150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 854
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c212b63faa901a428713e21c7805b99
+      internalID: 359371450633978411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 854
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35757d6f55998be47bb4acd8152ee595
+      internalID: -7001649357127420294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_6
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 854
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b19d6dd7e026d43be9a37f5c8bb035
+      internalID: -1263251365012404221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 854
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27d3b4f8ba5af24f9ca0af18bc04aa6
+      internalID: 8714535890217141650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f17c6e778a30a4c9631c020e9feada
+      internalID: -6459587778041208563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 732
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759c3e2f8cc15b94fbe46834560c6309
+      internalID: -8905518888901241549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 732
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c131911d865d7404c9e0e5766cc98fa2
+      internalID: -3273516724608038862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_11
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 732
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904b4f2180565da45abb92dbd55b638c
+      internalID: 8307259626448512298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 732
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeea2883f52ef3498c99bab2adb09e3
+      internalID: 4022948141334729829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 732
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488965f4463d72644a6206fc4aff17c4
+      internalID: 5010958268856643236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_14
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 732
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cb532659a7acd4187c96d53ceb90f2
+      internalID: -5765366930920884461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 732
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c2a6e4d3774a74f9f4056fc520214a
+      internalID: 2361292505297878331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255e07a8b65ade8468e546cd821a4767
+      internalID: -1278046184252011559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 610
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba493c8eddddedb4b922c1e95eb94b8d
+      internalID: 3222716654572793344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_18
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 610
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3bc250c70a7024983a8595b8806ebf
+      internalID: -6611381964626868671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_19
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 610
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6558f9fe9f24849915af114558c791
+      internalID: -3709598814106050651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_20
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 610
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b15c7c8f9ae814ab255d32d4f46fa3
+      internalID: 2312744958667824929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_21
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 610
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcb1b413db479b44800e696c32a50e1
+      internalID: -5483830026582149749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 610
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78980f88d5db04dbb81d3964b5bc95
+      internalID: -1050456764586450486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_23
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 610
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3d390ccd2688448899c7d59d1a2617
+      internalID: -9055987866052729775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 488
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f401896ba66b347b01ebcce1931ab0
+      internalID: -8978648192433255264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 488
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66faa53350211c543a9337314d5a6dc4
+      internalID: 7740273716830408070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_26
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 488
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027401bcc0799964183fb7aaab0b0bd2
+      internalID: -4089182967809399075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_27
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 488
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dce54d58281e7e499d189d3556df220
+      internalID: -5923084818187132897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_28
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 488
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a42f303368454bab5198e56c6448a
+      internalID: 8602706869405745728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 488
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc22a66cc3bbe8741923ce0aaa4efba6
+      internalID: 9175630203140119064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_30
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 488
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2479fa461e1fdd64ea0e96613cc194ea
+      internalID: -8041944459214742669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_31
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 488
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8505c575c09c9104e887b29ff6603153
+      internalID: -1831395620574857332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 366
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9147e7828e537e143a2e6e95db9b4b8a
+      internalID: -1727532501927671132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 366
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd21dad0bd9fade449b49a0da5f11f92
+      internalID: -11088227290373382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_34
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 366
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8cc091140d82e4ea180b31d4dd1d92
+      internalID: -5820910526283354777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_35
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 366
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9004faee0b1bd45a914e77e45c5135
+      internalID: 8317306485998705724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 366
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c8cee569ddb6849b4ca9b7bc160693
+      internalID: -3670668105566522803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_37
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 366
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c797f980e48b9479a58c97c8d0b605
+      internalID: -7736887729412668611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_38
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 366
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ecf53e976ca3d64192b52c9106c091b
+      internalID: 629591901138506955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_39
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 366
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2a8b12c4d57cf4bb6aecd472e4c01c
+      internalID: -1664595415321265732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 244
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb5365d9e30c64ebbd4b79790a7167
+      internalID: -7734562384063466640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_41
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 244
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5b265aeba48e94cb94035f3ad49eed
+      internalID: -736150469901911445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_42
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 244
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca235f366c46454d86f0ff258b3b7e0
+      internalID: 4215310190998729822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 244
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88746b98e6482124eb830b9fd2dea063
+      internalID: -3723557710411105613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_44
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 244
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e214999ad4ce2b4cb0ddf55b96127b3
+      internalID: 5328382096227080022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 244
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a01666c3a240e843958310ab832e5a3
+      internalID: 5768240220001875836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_46
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 244
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87101943b201394ba4fedb3b0c4f5bc
+      internalID: -2492987682478087330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_47
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 244
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a2842d96f0c84e8e24912bbf62868
+      internalID: -8639248329784155305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 122
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9728f84662ac9154b9e05f44fee80d36
+      internalID: 3703869547882431060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_49
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 122
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd154b224bfb76043b728ccbd8ae3fb4
+      internalID: -4814047900631977629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_50
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 122
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b755100906d6544ba8e6adc5003917
+      internalID: -6573731984864311702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_51
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f869afc904207d7408ba626d9e09a55d
+      internalID: 26655933636359967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_52
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 122
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f427011f2a618864ea9523b8c74896fe
+      internalID: -725981649049106499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_53
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 122
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05576b45026c20e4e9eab9c4f3c91377
+      internalID: 4309661037085161086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_54
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 122
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba6758f712bd794595b4c70e4e49320
+      internalID: 3405880237892760738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_55
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 122
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65592b7a4d2a42243ba3500551958072
+      internalID: -7099961015527197480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8ddf1b6121ba843abe43302a6d1fb3
+      internalID: 6250432643472231827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_wakingUp_53x122_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 53
+        height: 122
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e39d91b9e157d418bc43033efe7034
+      internalID: -2450818672510085679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

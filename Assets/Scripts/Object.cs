@@ -4,21 +4,33 @@ using UnityEngine;
 
 public class Object : MonoBehaviour
 {
-    SpriteRenderer spriteRender;
-    bool change_colour = true;
+    [SerializeField] List<GameObject> objectsToEnable;
+    [SerializeField] List<float> objectsToEnableDelay;
+    [SerializeField] List<GameObject> objectsToDisable;
+    [SerializeField] List<float> objectsToDisableDelay;
 
-    Animator animControl;
-    private void Start()
+    public void Execute()
     {
-        spriteRender = gameObject.GetComponent<SpriteRenderer>();
-        animControl = gameObject.GetComponent<Animator>();
+        StartCoroutine(Enable());
     }
 
-    /* Function to play animations,
-     * Function expects the truggerNane (set in animator control) and a state (true/falls)
-     */
-    public void Execute(string triggerName, bool state)
+    IEnumerator Enable()
     {
-        animControl.SetBool(triggerName, state);
+        for (int i = 0; i < objectsToEnable.Count; i++)
+        {
+            yield return new WaitForSeconds(objectsToEnableDelay[i]);
+            objectsToEnable[i].SetActive(true);
+        }
+        StartCoroutine(Disable());
+    }
+
+    IEnumerator Disable()
+    {
+        for (int i = 0; i < objectsToDisable.Count; i++)
+        {
+            yield return new WaitForSeconds(objectsToDisableDelay[i]);
+            objectsToDisable[i].SetActive(false);
+        }
+        this.gameObject.SetActive(false);
     }
 }
