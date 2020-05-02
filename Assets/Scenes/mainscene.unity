@@ -759,8 +759,8 @@ Transform:
   m_Children:
   - {fileID: 1682731306}
   - {fileID: 1243997582}
-  - {fileID: 797090577}
   - {fileID: 979929380}
+  - {fileID: 797090577}
   m_Father: {fileID: 0}
   m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1408,7 +1408,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 426589989}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &797090578
 Rigidbody2D:
@@ -1646,6 +1646,7 @@ GameObject:
   - component: {fileID: 979929380}
   - component: {fileID: 979929382}
   - component: {fileID: 979929381}
+  - component: {fileID: 979929383}
   m_Layer: 0
   m_Name: GhostTransform
   m_TagString: Untagged
@@ -1665,7 +1666,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 426589989}
-  m_RootOrder: 3
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!95 &979929381
 Animator:
@@ -1736,6 +1737,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &979929383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 979929379}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c2d6f76b93b8224ba04bf59085faa4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  objectToActivate: {fileID: 797090575}
 --- !u!1 &1182036169
 GameObject:
   m_ObjectHideFlags: 0
@@ -2090,8 +2104,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: acefa47721cb9d84cbe4b2fde0c70f9d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  objectToActivate: {fileID: 0}
-  dialogueManager: {fileID: 0}
+  objectToActivate: {fileID: 979929379}
+  dialogueManager: {fileID: 1290943797}
 --- !u!1 &1290943797
 GameObject:
   m_ObjectHideFlags: 0
