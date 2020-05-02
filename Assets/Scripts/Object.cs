@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class Object : MonoBehaviour
 {
-    [SerializeField] List<GameObject> objectsToEnable;
-    [SerializeField] List<float> objectsToEnableDelay;
-    [SerializeField] List<GameObject> objectsToDisable;
-    [SerializeField] List<float> objectsToDisableDelay;
+    [SerializeField] private List<GameObject> objectsToEnable;
+    [SerializeField] private List<float> objectsToEnableDelay;
+    [SerializeField] private List<GameObject> objectsToDisable;
+    [SerializeField] private List<float> objectsToDisableDelay;
 
     public void Execute()
     {

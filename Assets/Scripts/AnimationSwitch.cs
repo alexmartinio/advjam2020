@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class AnimationSwitch : MonoBehaviour
 {
-    [SerializeField] GameObject objectToActivate;
+    [SerializeField] private GameObject objectToActivate;
     // Start is called before the first frame update
 
     Animator anim;
