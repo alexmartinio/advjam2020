@@ -4,12 +4,25 @@ using UnityEngine;
 
 public class TriggerDialog : MonoBehaviour
 {
+    [SerializeField] GameObject objectToActivate;
+    [SerializeField] GameObject dialogueManager;
     // Start is called before the first frame update
-    DialogueTrigger dialogueTrigger;
+    DialogueTrigger _dialogueTrigger;
+    DialogueManager _dialogueManager;
+
     void Start()
     {
-        dialogueTrigger = this.GetComponent<DialogueTrigger>();
-        dialogueTrigger.TriggerDialogue();
+        _dialogueTrigger = this.GetComponent<DialogueTrigger>();
+        _dialogueManager = dialogueManager.GetComponent<DialogueManager>();
+        _dialogueTrigger.TriggerDialogue();
     }
 
+    private void Update()
+    {
+        if(_dialogueManager.dialogueFinished)
+        {
+            objectToActivate.SetActive(true);
+            this.gameObject.SetActive(false);
+        }    
+    }
 }

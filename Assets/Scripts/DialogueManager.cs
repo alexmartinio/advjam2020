@@ -11,6 +11,7 @@ public class DialogueManager : MonoBehaviour
     public Animator animator;
     public TMP_Text nameText;
     public TMP_Text dialogueText;
+    public bool dialogueFinished = false;
 
     void Start()
     {
@@ -68,5 +69,6 @@ public class DialogueManager : MonoBehaviour
     void EndDialogue()
     {
         animator.SetBool("IsOpen", false);
+        dialogueFinished = true;
     }
 }
