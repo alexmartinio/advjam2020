@@ -1,0 +1,1171 @@
+fileFormatVersion: 2
+guid: a173bf92baff5294b9dc5129a38386df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5524390580097769466
+    second: flyOutsideLoop_28x17_0
+  - first:
+      213: -1489168032468235154
+    second: flyOutsideLoop_28x17_1
+  - first:
+      213: 1901814123673864474
+    second: flyOutsideLoop_28x17_2
+  - first:
+      213: 3158887195004488530
+    second: flyOutsideLoop_28x17_3
+  - first:
+      213: -9190556081294334526
+    second: flyOutsideLoop_28x17_4
+  - first:
+      213: 988951918821353141
+    second: flyOutsideLoop_28x17_5
+  - first:
+      213: -1387554353567964049
+    second: flyOutsideLoop_28x17_6
+  - first:
+      213: 4298546956213320248
+    second: flyOutsideLoop_28x17_7
+  - first:
+      213: -7438965415477649715
+    second: flyOutsideLoop_28x17_8
+  - first:
+      213: -5585870507451924968
+    second: flyOutsideLoop_28x17_9
+  - first:
+      213: -4837463125457429878
+    second: flyOutsideLoop_28x17_10
+  - first:
+      213: -4744611906403997180
+    second: flyOutsideLoop_28x17_11
+  - first:
+      213: 4095550012154741964
+    second: flyOutsideLoop_28x17_12
+  - first:
+      213: 2157937911512434943
+    second: flyOutsideLoop_28x17_13
+  - first:
+      213: -8624578594710864962
+    second: flyOutsideLoop_28x17_14
+  - first:
+      213: -128902095912913482
+    second: flyOutsideLoop_28x17_15
+  - first:
+      213: 4630958497088615780
+    second: flyOutsideLoop_28x17_16
+  - first:
+      213: 4675305438988330028
+    second: flyOutsideLoop_28x17_17
+  - first:
+      213: 5005994466469314644
+    second: flyOutsideLoop_28x17_18
+  - first:
+      213: -6655337593157055281
+    second: flyOutsideLoop_28x17_19
+  - first:
+      213: -4703251462767848835
+    second: flyOutsideLoop_28x17_20
+  - first:
+      213: 5781239564782997453
+    second: flyOutsideLoop_28x17_21
+  - first:
+      213: 5301776927170749636
+    second: flyOutsideLoop_28x17_22
+  - first:
+      213: 7654694998886219646
+    second: flyOutsideLoop_28x17_23
+  - first:
+      213: -5817572000628849095
+    second: flyOutsideLoop_28x17_24
+  - first:
+      213: 6241713853790796020
+    second: flyOutsideLoop_28x17_25
+  - first:
+      213: 1092431994060311982
+    second: flyOutsideLoop_28x17_26
+  - first:
+      213: 8985881117676148695
+    second: flyOutsideLoop_28x17_27
+  - first:
+      213: -3566352175430562425
+    second: flyOutsideLoop_28x17_28
+  - first:
+      213: 4382766488348092101
+    second: flyOutsideLoop_28x17_29
+  - first:
+      213: 8133176147184864015
+    second: flyOutsideLoop_28x17_30
+  - first:
+      213: -8624359217113660578
+    second: flyOutsideLoop_28x17_31
+  - first:
+      213: 5513425125815375521
+    second: flyOutsideLoop_28x17_32
+  - first:
+      213: -5372577813322287258
+    second: flyOutsideLoop_28x17_33
+  - first:
+      213: 4676644012001395581
+    second: flyOutsideLoop_28x17_34
+  - first:
+      213: 1143469860719005640
+    second: flyOutsideLoop_28x17_35
+  - first:
+      213: -3232636207766079742
+    second: flyOutsideLoop_28x17_36
+  - first:
+      213: -7440264199674706050
+    second: flyOutsideLoop_28x17_37
+  - first:
+      213: -2420574378283922976
+    second: flyOutsideLoop_28x17_38
+  - first:
+      213: 834003965181696381
+    second: flyOutsideLoop_28x17_39
+  - first:
+      213: 7320694210541426279
+    second: flyOutsideLoop_28x17_40
+  - first:
+      213: -3612643073108648311
+    second: flyOutsideLoop_28x17_41
+  - first:
+      213: 370557304866086222
+    second: flyOutsideLoop_28x17_42
+  - first:
+      213: 4221945599112525606
+    second: flyOutsideLoop_28x17_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0160132d1669e9e4e87f835fa0e6aa92
+      internalID: -5524390580097769466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 102
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84757da43b8cf0548b8076e4c4c1ece9
+      internalID: -1489168032468235154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 102
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de9d81cce0b0741ac9b561aafe63d7
+      internalID: 1901814123673864474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 102
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a080b218f7de0c42b6b9d8cfd83c163
+      internalID: 3158887195004488530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 102
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2c7e9afbb1c5e43b245afa950c9ce7
+      internalID: -9190556081294334526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 102
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34813248762b43c479871e1b3295a571
+      internalID: 988951918821353141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 102
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c15e0c3e314c56440b3bee27b3d5e853
+      internalID: -1387554353567964049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84197f739edf1734292a30c09e115d33
+      internalID: 4298546956213320248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 85
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2391fbc3336ec4b9714aba30f357e2
+      internalID: -7438965415477649715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_9
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 85
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836bbfb4aa57d7342a66ddcb81d12526
+      internalID: -5585870507451924968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 85
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b86045183d53c24aae76320ff5dbfe7
+      internalID: -4837463125457429878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 85
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb050476f2f64947a85eee8ca82b961
+      internalID: -4744611906403997180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 85
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314bf9f7a8951c146ad71606f28ce677
+      internalID: 4095550012154741964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 85
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3867ef3c34124ea4d22d8725ea024
+      internalID: 2157937911512434943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36c2c32e95ec80429f99a2191ca044a
+      internalID: -8624578594710864962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 68
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908b8307846058e43ace97fbe6626e5b
+      internalID: -128902095912913482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 68
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f21b2d103b0e0e4d9ea076333770269
+      internalID: 4630958497088615780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a942c76885cc444e94b2a4b9c53edb1
+      internalID: 4675305438988330028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_18
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 68
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53f11254af684440b55fa5eb79f1a44
+      internalID: 5005994466469314644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_19
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 68
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabeff2c986237b4b98a524799a33080
+      internalID: -6655337593157055281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 68
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aefc517d76d624ebf92cbb5d4d986a
+      internalID: -4703251462767848835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ec1affd542064cabaec0a7b0d41b4
+      internalID: 5781239564782997453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_22
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b504c72f71fea214a815f71148a9f204
+      internalID: 5301776927170749636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ec3eedd3c534f4f94c8360b041f273
+      internalID: 7654694998886219646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_24
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7dd442d67759d45bc9e70effc1efbc
+      internalID: -5817572000628849095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_25
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddaa886055689c40926ec838ecf23bf
+      internalID: 6241713853790796020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_26
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd780e199c7fbad46bfb316d82f402a1
+      internalID: 1092431994060311982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_27
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 51
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81d6e48f73a8f44895b656262777a93
+      internalID: 8985881117676148695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dec9f918d3c874584122fd3a7c7e2c
+      internalID: -3566352175430562425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 34
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b994ba8e3a76824c9e86370f4a6bb48
+      internalID: 4382766488348092101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 34
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5d17893c84253448db5b0f75f20c3c
+      internalID: 8133176147184864015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 34
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb05d117d90ee428e251e720c1f969
+      internalID: -8624359217113660578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ed276cbc7d3904190b1c090fd9685b
+      internalID: 5513425125815375521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_33
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 34
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a1fc3920ea09f4cbfd722ce7438670
+      internalID: -5372577813322287258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83117db6a5cca0d43be124236bef4737
+      internalID: 4676644012001395581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7af85ce1b197aa4fb989b5f0133df93
+      internalID: 1143469860719005640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66383131c3d05f444ab76e23c7c565f3
+      internalID: -3232636207766079742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 17
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acee5c2ad7754d249a69f37553d48040
+      internalID: -7440264199674706050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 17
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d112a166b48cc0f4b93bf50a1c6cda88
+      internalID: -2420574378283922976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19931fae684e2614ea5bbf06334b92e5
+      internalID: 834003965181696381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_40
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78578c1fe88b7604d8116a8a526a496b
+      internalID: 7320694210541426279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_41
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 17
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780984cef35cf314bb15901b97bd451b
+      internalID: -3612643073108648311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98686a039c026c24d92f6e9c95c82e0a
+      internalID: 370557304866086222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyOutsideLoop_28x17_43
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d8371d075a954aa663679199dafd1
+      internalID: 4221945599112525606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

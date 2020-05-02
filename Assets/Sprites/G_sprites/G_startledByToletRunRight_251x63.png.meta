@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: b97d18a8aff402046bfc0d4f8f5ae99b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8866060009107878192
+    second: G_startledByToletRunRight_251x63_0
+  - first:
+      213: -4720984611773859660
+    second: G_startledByToletRunRight_251x63_1
+  - first:
+      213: 4522543861623660084
+    second: G_startledByToletRunRight_251x63_2
+  - first:
+      213: 5182730826713857230
+    second: G_startledByToletRunRight_251x63_3
+  - first:
+      213: -7019435859739373377
+    second: G_startledByToletRunRight_251x63_4
+  - first:
+      213: 9102700964338321843
+    second: G_startledByToletRunRight_251x63_5
+  - first:
+      213: -960374556257804351
+    second: G_startledByToletRunRight_251x63_6
+  - first:
+      213: -5741456265798935991
+    second: G_startledByToletRunRight_251x63_7
+  - first:
+      213: -6087280543408777973
+    second: G_startledByToletRunRight_251x63_8
+  - first:
+      213: 10054082896938830
+    second: G_startledByToletRunRight_251x63_9
+  - first:
+      213: 2670755994599509221
+    second: G_startledByToletRunRight_251x63_10
+  - first:
+      213: 7273101760485862760
+    second: G_startledByToletRunRight_251x63_11
+  - first:
+      213: 3930997860531436438
+    second: G_startledByToletRunRight_251x63_12
+  - first:
+      213: 8713658017778332840
+    second: G_startledByToletRunRight_251x63_13
+  - first:
+      213: 285209990630029867
+    second: G_startledByToletRunRight_251x63_14
+  - first:
+      213: -715485049054485541
+    second: G_startledByToletRunRight_251x63_15
+  - first:
+      213: -7555520129626904746
+    second: G_startledByToletRunRight_251x63_16
+  - first:
+      213: -803177514873525779
+    second: G_startledByToletRunRight_251x63_17
+  - first:
+      213: -3429254212381459194
+    second: G_startledByToletRunRight_251x63_18
+  - first:
+      213: 6745275117826681922
+    second: G_startledByToletRunRight_251x63_19
+  - first:
+      213: 5301281687230972247
+    second: G_startledByToletRunRight_251x63_20
+  - first:
+      213: -378025624250320030
+    second: G_startledByToletRunRight_251x63_21
+  - first:
+      213: -3629766926342621353
+    second: G_startledByToletRunRight_251x63_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 252
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be31e9551267e5249b22a82d581bca01
+      internalID: 8866060009107878192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 252
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8157bb0cf11f24bbfd803e5c158c4f
+      internalID: -4720984611773859660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_2
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 252
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e6169087b019548bc45b1fd792ea77
+      internalID: 4522543861623660084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_3
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 252
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2067f32f167ba449d74565bf076206
+      internalID: 5182730826713857230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 252
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd895bfcf091cc4ca030d7d74ec37f4
+      internalID: -7019435859739373377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4c02750f23afb41b1cbc348e4817fa
+      internalID: 9102700964338321843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_6
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 189
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514151685897ecc49bc5a70a5ea47fa0
+      internalID: -960374556257804351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_7
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 189
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c2107f91178644cb62ce68b258735d
+      internalID: -5741456265798935991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_8
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 189
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7010cc3b3c48cd34ca651dc6cba1804a
+      internalID: -6087280543408777973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_9
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 189
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00251585ee573ed4c9209ff518002de1
+      internalID: 10054082896938830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec10d036450c274a8e0817e0d61d4d5
+      internalID: 2670755994599509221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 126
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a6880f00b9f5d44aaf0a95b700d1ba
+      internalID: 7273101760485862760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_12
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 126
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0fe7f75f43d7b499f5e1d0f6e20c9c
+      internalID: 3930997860531436438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_13
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 126
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71f2305b7ea2db48b069c8bba456bed
+      internalID: 8713658017778332840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_14
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 126
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac632af00831da48a59e042fa545e24
+      internalID: 285209990630029867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29fd50e1f764c343b907579c7c357c5
+      internalID: -715485049054485541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_16
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 63
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132b937cee8f97044b0b26019a19e693
+      internalID: -7555520129626904746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_17
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 63
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ef239176393ba4cb561e1f0151304a
+      internalID: -803177514873525779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_18
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 63
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee1830da40ad7a44863d4b59c9c9276
+      internalID: -3429254212381459194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_19
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 63
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31709b338e35ffa4198ede4cba94f549
+      internalID: 6745275117826681922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594a4cb189ede1488d1f4acf9ed29d8
+      internalID: 5301281687230972247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 0
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf29adb0a4ad59540a74ac139f1219dc
+      internalID: -378025624250320030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_startledByToletRunRight_251x63_22
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 0
+        width: 251
+        height: 63
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c765f0e57e4006e4193ef32cff522ca5
+      internalID: -3629766926342621353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: GeoffreyOpenningToiletDoor
+  m_Name: WindowOpening
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,31 +20,25 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: 2954901305475695977, guid: 6a7dec50fc3068548bc7eafd11f17a95,
+      value: {fileID: 6275151658203829885, guid: d5cf111e396d73e43a719d4c8adf58e1,
         type: 3}
     - time: 0.083333336
-      value: {fileID: 1490158502989753077, guid: 6a7dec50fc3068548bc7eafd11f17a95,
+      value: {fileID: 7009404211265703403, guid: d5cf111e396d73e43a719d4c8adf58e1,
         type: 3}
     - time: 0.16666667
-      value: {fileID: -4167627715693757430, guid: 6a7dec50fc3068548bc7eafd11f17a95,
+      value: {fileID: -8459641899607218482, guid: d5cf111e396d73e43a719d4c8adf58e1,
         type: 3}
     - time: 0.25
-      value: {fileID: 5278132483296759028, guid: 6a7dec50fc3068548bc7eafd11f17a95,
+      value: {fileID: -3539644399510129291, guid: d5cf111e396d73e43a719d4c8adf58e1,
         type: 3}
     - time: 0.33333334
-      value: {fileID: -9076579879146689457, guid: 6a7dec50fc3068548bc7eafd11f17a95,
+      value: {fileID: -5392926163004921854, guid: d5cf111e396d73e43a719d4c8adf58e1,
         type: 3}
     - time: 0.41666666
-      value: {fileID: 7705670884306782957, guid: 6a7dec50fc3068548bc7eafd11f17a95,
+      value: {fileID: -5119291865765171489, guid: d5cf111e396d73e43a719d4c8adf58e1,
         type: 3}
     - time: 0.5
-      value: {fileID: -5042681385659882276, guid: 6a7dec50fc3068548bc7eafd11f17a95,
-        type: 3}
-    - time: 0.5833333
-      value: {fileID: 1843253949859369828, guid: 6a7dec50fc3068548bc7eafd11f17a95,
-        type: 3}
-    - time: 0.6666667
-      value: {fileID: 5019324575782416577, guid: 6a7dec50fc3068548bc7eafd11f17a95,
+      value: {fileID: 4636394823818616453, guid: d5cf111e396d73e43a719d4c8adf58e1,
         type: 3}
     attribute: m_Sprite
     path: 
@@ -65,21 +59,19 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: 2954901305475695977, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
-    - {fileID: 1490158502989753077, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
-    - {fileID: -4167627715693757430, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
-    - {fileID: 5278132483296759028, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
-    - {fileID: -9076579879146689457, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
-    - {fileID: 7705670884306782957, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
-    - {fileID: -5042681385659882276, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
-    - {fileID: 1843253949859369828, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
-    - {fileID: 5019324575782416577, guid: 6a7dec50fc3068548bc7eafd11f17a95, type: 3}
+    - {fileID: 6275151658203829885, guid: d5cf111e396d73e43a719d4c8adf58e1, type: 3}
+    - {fileID: 7009404211265703403, guid: d5cf111e396d73e43a719d4c8adf58e1, type: 3}
+    - {fileID: -8459641899607218482, guid: d5cf111e396d73e43a719d4c8adf58e1, type: 3}
+    - {fileID: -3539644399510129291, guid: d5cf111e396d73e43a719d4c8adf58e1, type: 3}
+    - {fileID: -5392926163004921854, guid: d5cf111e396d73e43a719d4c8adf58e1, type: 3}
+    - {fileID: -5119291865765171489, guid: d5cf111e396d73e43a719d4c8adf58e1, type: 3}
+    - {fileID: 4636394823818616453, guid: d5cf111e396d73e43a719d4c8adf58e1, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.75
+    m_StopTime: 0.5833333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -99,8 +91,8 @@ AnimationClip:
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
   m_Events:
-  - time: 0.75
-    functionName: EnableColliders
+  - time: 0.5833333
+    functionName: AnimationFinished
     data: 
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
