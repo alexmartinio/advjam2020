@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 01b758f067d9fbf42b60ad5896fb91ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1606928443918495369
+    second: G_WalkRight_BedCatStop_118x71_0
+  - first:
+      213: 8351676365830875884
+    second: G_WalkRight_BedCatStop_118x71_1
+  - first:
+      213: -7219196613424290417
+    second: G_WalkRight_BedCatStop_118x71_2
+  - first:
+      213: -2446455011231721823
+    second: G_WalkRight_BedCatStop_118x71_3
+  - first:
+      213: -3928573021497338171
+    second: G_WalkRight_BedCatStop_118x71_4
+  - first:
+      213: -1564526979345302165
+    second: G_WalkRight_BedCatStop_118x71_5
+  - first:
+      213: 3316307487615288297
+    second: G_WalkRight_BedCatStop_118x71_6
+  - first:
+      213: 2638674979398160303
+    second: G_WalkRight_BedCatStop_118x71_7
+  - first:
+      213: 1488393327532163577
+    second: G_WalkRight_BedCatStop_118x71_8
+  - first:
+      213: -6297564880923630522
+    second: G_WalkRight_BedCatStop_118x71_9
+  - first:
+      213: 2459639307000441030
+    second: G_WalkRight_BedCatStop_118x71_10
+  - first:
+      213: 2031556289132702476
+    second: G_WalkRight_BedCatStop_118x71_11
+  - first:
+      213: -2502868014868166104
+    second: G_WalkRight_BedCatStop_118x71_12
+  - first:
+      213: -2139272093245667659
+    second: G_WalkRight_BedCatStop_118x71_13
+  - first:
+      213: -3507145222506852902
+    second: G_WalkRight_BedCatStop_118x71_14
+  - first:
+      213: -3954938654556509287
+    second: G_WalkRight_BedCatStop_118x71_15
+  - first:
+      213: -2357286868819613173
+    second: G_WalkRight_BedCatStop_118x71_16
+  - first:
+      213: -3884746397557724367
+    second: G_WalkRight_BedCatStop_118x71_17
+  - first:
+      213: 5273643328381604051
+    second: G_WalkRight_BedCatStop_118x71_18
+  - first:
+      213: -4128623430795425427
+    second: G_WalkRight_BedCatStop_118x71_19
+  - first:
+      213: 7356929984035722621
+    second: G_WalkRight_BedCatStop_118x71_20
+  - first:
+      213: -6847211520609698050
+    second: G_WalkRight_BedCatStop_118x71_21
+  - first:
+      213: 1511707181119264114
+    second: G_WalkRight_BedCatStop_118x71_22
+  - first:
+      213: -307991262986984433
+    second: G_WalkRight_BedCatStop_118x71_23
+  - first:
+      213: 8453629233157040096
+    second: G_WalkRight_BedCatStop_118x71_24
+  - first:
+      213: -4361875113491131255
+    second: G_WalkRight_BedCatStop_118x71_25
+  - first:
+      213: 3162329955201810394
+    second: G_WalkRight_BedCatStop_118x71_26
+  - first:
+      213: 5149859451750493439
+    second: G_WalkRight_BedCatStop_118x71_27
+  - first:
+      213: 4415435905052786969
+    second: G_WalkRight_BedCatStop_118x71_28
+  - first:
+      213: -3008876372740977814
+    second: G_WalkRight_BedCatStop_118x71_29
+  - first:
+      213: -1488764670612223623
+    second: G_WalkRight_BedCatStop_118x71_30
+  - first:
+      213: 4404135273360872792
+    second: G_WalkRight_BedCatStop_118x71_31
+  - first:
+      213: -2047778653153428178
+    second: G_WalkRight_BedCatStop_118x71_32
+  - first:
+      213: -3001930595517971817
+    second: G_WalkRight_BedCatStop_118x71_33
+  - first:
+      213: 6817267847293405419
+    second: G_WalkRight_BedCatStop_118x71_34
+  - first:
+      213: -8028293755572848721
+    second: G_WalkRight_BedCatStop_118x71_35
+  - first:
+      213: -1782768575828974057
+    second: G_WalkRight_BedCatStop_118x71_36
+  - first:
+      213: -6325553047300897077
+    second: G_WalkRight_BedCatStop_118x71_37
+  - first:
+      213: -2076187683294407744
+    second: G_WalkRight_BedCatStop_118x71_38
+  - first:
+      213: 7528747625778337905
+    second: G_WalkRight_BedCatStop_118x71_39
+  - first:
+      213: -1850498856791786549
+    second: G_WalkRight_BedCatStop_118x71_40
+  - first:
+      213: 6575835182366107320
+    second: G_WalkRight_BedCatStop_118x71_41
+  - first:
+      213: 5110986798731937888
+    second: G_WalkRight_BedCatStop_118x71_42
+  - first:
+      213: 8125484419803923959
+    second: G_WalkRight_BedCatStop_118x71_43
+  - first:
+      213: -4654417157589427487
+    second: G_WalkRight_BedCatStop_118x71_44
+  - first:
+      213: -4559760707717668509
+    second: G_WalkRight_BedCatStop_118x71_45
+  - first:
+      213: 6848856695455199139
+    second: G_WalkRight_BedCatStop_118x71_46
+  - first:
+      213: -6243665315672623452
+    second: G_WalkRight_BedCatStop_118x71_47
+  - first:
+      213: 5004755130636760313
+    second: G_WalkRight_BedCatStop_118x71_48
+  - first:
+      213: 2766132142693282114
+    second: G_WalkRight_BedCatStop_118x71_49
+  - first:
+      213: -9100061348020477816
+    second: G_WalkRight_BedCatStop_118x71_50
+  - first:
+      213: -3912838339433767622
+    second: G_WalkRight_BedCatStop_118x71_51
+  - first:
+      213: 4164429984187341058
+    second: G_WalkRight_BedCatStop_118x71_52
+  - first:
+      213: -3794450114076522604
+    second: G_WalkRight_BedCatStop_118x71_53
+  - first:
+      213: 2269663567985791892
+    second: G_WalkRight_BedCatStop_118x71_54
+  - first:
+      213: 7436468635321516684
+    second: G_WalkRight_BedCatStop_118x71_55
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8807acaa299eb409251e2768c91b2b
+      internalID: 1606928443918495369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 284
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130cc688e85bf3147a173b27e211e8a9
+      internalID: 8351676365830875884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_2
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 284
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9df892e63f5f489be5a9f4b3cb6cf
+      internalID: -7219196613424290417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 284
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb0bafde8783c7478e7c5e6192d2e7e
+      internalID: -2446455011231721823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_4
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 284
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead146aa36e171c4b9af2797d93eb884
+      internalID: -3928573021497338171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 284
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97064f55a1f6dea4d9b63cffc6669598
+      internalID: -1564526979345302165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 213
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc279ad91bbe2e49ac8576cebcbe372
+      internalID: 3316307487615288297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 213
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0fcadbde4928e41be2d8e134175308
+      internalID: 2638674979398160303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_8
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 213
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7c8ee2fe7b1d744a37f53d3a67829a
+      internalID: 1488393327532163577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 213
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb2446bdde566f4789167fa63cd31ef
+      internalID: -6297564880923630522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_10
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 213
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595fbe2929af5d749a74cdab8b0407bd
+      internalID: 2459639307000441030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 213
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ef33bd831bc614290eb4a5e16169c0
+      internalID: 2031556289132702476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c66cf6edc2724c92b154f472b65c1
+      internalID: -2502868014868166104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_13
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 142
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e51dd88403d8954c8e5345046baa626
+      internalID: -2139272093245667659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_14
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 142
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2696b040b8cc9d34d847425c3f2200a2
+      internalID: -3507145222506852902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_15
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 142
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1150fb34b44c0764aacd9b1309d0b8d1
+      internalID: -3954938654556509287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_16
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 142
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c475d8b5dfb27e34c9272049ec2906a0
+      internalID: -2357286868819613173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_17
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 142
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae74675b68ebbdf4d810b195fd820215
+      internalID: -3884746397557724367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83615e55a3a6c542abb30982b755047
+      internalID: 5273643328381604051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_19
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 71
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229b94d2550a0bb4c8450a0d9f2679f7
+      internalID: -4128623430795425427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 71
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aac1065671cee647a5fabc81618efee
+      internalID: 7356929984035722621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 71
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0db2aeb9a82f4047b6a3d0208a6aae0
+      internalID: -6847211520609698050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_22
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 71
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520976559c8b5a44385ac84a9592a5c7
+      internalID: 1511707181119264114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_23
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 71
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f751ee3e0fd97c54396c5749ea806bfb
+      internalID: -307991262986984433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee56b97eb596b2459d2e8aab67b223c
+      internalID: 8453629233157040096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9842fdaa1b65b4f40be09b130b032f18
+      internalID: -4361875113491131255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_26
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974a7ea23cfff5b45bece76ec8b55195
+      internalID: 3162329955201810394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_WalkRight_BedCatStop_118x71_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 118
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc85fbac97466fc48aa7c9c200ab79e3
+      internalID: 5149859451750493439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
