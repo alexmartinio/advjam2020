@@ -4,6 +4,14 @@ using UnityEngine;
 
 public class GameStateManager : MonoBehaviour
 {
+    [SerializeField] GameObject dialogueManager;
+
+    DialogueManager _dialogueManager;
+
+    private void Start()
+    {
+        _dialogueManager = dialogueManager.GetComponent<DialogueManager>();
+    }
     RaycastHit2D hitDetection()
     {
         Vector3 mousePos = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -16,7 +24,7 @@ public class GameStateManager : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetMouseButtonDown(0))
+        if(Input.GetMouseButtonDown(0) && _dialogueManager.textPlaying == false)
         {
             RaycastHit2D hit = hitDetection();
             if (hit.collider != null)
@@ -24,6 +32,10 @@ public class GameStateManager : MonoBehaviour
                 if ((hit.collider.gameObject.GetComponent("Object") as Object) != null)
                 {
                     hit.collider.gameObject.GetComponent<Object>().Execute();
+                }
+                if ((hit.collider.gameObject.GetComponent("DialogueTrigger") as DialogueTrigger) != null)
+                {
+                    hit.collider.gameObject.GetComponent<DialogueTrigger>().TriggerDialogue();
                 }
             }   
         }

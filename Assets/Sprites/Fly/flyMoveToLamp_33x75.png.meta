@@ -1,0 +1,931 @@
+fileFormatVersion: 2
+guid: 5c190e98d3a768a42aa5829f7290eef7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8553198260626879715
+    second: flyMoveToLamp_33x75_0
+  - first:
+      213: 4371785589155264315
+    second: flyMoveToLamp_33x75_1
+  - first:
+      213: 3330325575928052569
+    second: flyMoveToLamp_33x75_2
+  - first:
+      213: -3762410426733440027
+    second: flyMoveToLamp_33x75_3
+  - first:
+      213: -2961269359100108907
+    second: flyMoveToLamp_33x75_4
+  - first:
+      213: -4653819209244371839
+    second: flyMoveToLamp_33x75_5
+  - first:
+      213: 5135242424472123499
+    second: flyMoveToLamp_33x75_6
+  - first:
+      213: 8714385238692648420
+    second: flyMoveToLamp_33x75_7
+  - first:
+      213: -9008781222167728852
+    second: flyMoveToLamp_33x75_8
+  - first:
+      213: 3616747392947417149
+    second: flyMoveToLamp_33x75_9
+  - first:
+      213: 8046930155565935162
+    second: flyMoveToLamp_33x75_10
+  - first:
+      213: -8600367248963279372
+    second: flyMoveToLamp_33x75_11
+  - first:
+      213: -5670241714037428976
+    second: flyMoveToLamp_33x75_12
+  - first:
+      213: -1911052728764509784
+    second: flyMoveToLamp_33x75_13
+  - first:
+      213: -5216134750046288315
+    second: flyMoveToLamp_33x75_14
+  - first:
+      213: 3238331452503790972
+    second: flyMoveToLamp_33x75_15
+  - first:
+      213: -2914364956136876078
+    second: flyMoveToLamp_33x75_16
+  - first:
+      213: -767096244775740500
+    second: flyMoveToLamp_33x75_17
+  - first:
+      213: 5964155642521475314
+    second: flyMoveToLamp_33x75_18
+  - first:
+      213: -8528961589365737581
+    second: flyMoveToLamp_33x75_19
+  - first:
+      213: -3380796058995875219
+    second: flyMoveToLamp_33x75_20
+  - first:
+      213: -2964152790271712147
+    second: flyMoveToLamp_33x75_21
+  - first:
+      213: -5621451157906280678
+    second: flyMoveToLamp_33x75_22
+  - first:
+      213: 8235691996014525380
+    second: flyMoveToLamp_33x75_23
+  - first:
+      213: -9209988025482228648
+    second: flyMoveToLamp_33x75_24
+  - first:
+      213: -8663132736954213444
+    second: flyMoveToLamp_33x75_25
+  - first:
+      213: 4637623504119628508
+    second: flyMoveToLamp_33x75_26
+  - first:
+      213: 8307622217900527711
+    second: flyMoveToLamp_33x75_27
+  - first:
+      213: -1915054020084306186
+    second: flyMoveToLamp_33x75_28
+  - first:
+      213: -3711798959927551747
+    second: flyMoveToLamp_33x75_29
+  - first:
+      213: 2190869222142558121
+    second: flyMoveToLamp_33x75_30
+  - first:
+      213: 7897961717796852025
+    second: flyMoveToLamp_33x75_31
+  - first:
+      213: -8772871283263367990
+    second: flyMoveToLamp_33x75_32
+  - first:
+      213: 2143341625911408011
+    second: flyMoveToLamp_33x75_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15056c918628ae94eb2f6c1efb37ebdc
+      internalID: 8553198260626879715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 375
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6848e660f3e07a4fa040d5b3118f5b4
+      internalID: 4371785589155264315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 375
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12a35c2b8efa4044afbfc268f09e567
+      internalID: 3330325575928052569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 375
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64773bd3fd735b74b95a2a4888e97478
+      internalID: -3762410426733440027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 375
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1f071a7a306c844945cc00df36b7b8
+      internalID: -2961269359100108907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 375
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486da52af1148714dba8c0cafeaab9a7
+      internalID: -4653819209244371839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e16f38cf888aa44953156b3738e3f7
+      internalID: 5135242424472123499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 300
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03741b3720b9f484281f1fc0fe032e0a
+      internalID: 8714385238692648420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 300
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc0161ae0ab5834ba4c21337d64dac4
+      internalID: -9008781222167728852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 300
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa42dd5c32f57441961ab6979169da3
+      internalID: 3616747392947417149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 300
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c875ff6c5c255546857156190438189
+      internalID: 8046930155565935162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 300
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b7a2cd2718af7498b1676445fb48f9
+      internalID: -8600367248963279372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099f5f775f0d65d4998030326ca41b17
+      internalID: -5670241714037428976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a7e77ea4475a649b5d8afd09c8c83e
+      internalID: -1911052728764509784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_14
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa9ea37aab460d4294c5b1195563078
+      internalID: -5216134750046288315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 225
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110810fd2a70f364887731b652425e7b
+      internalID: 3238331452503790972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 225
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e65f1516f1e0bb48870f9d5b8298289
+      internalID: -2914364956136876078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 225
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6269f1bbfbd1b204d8e22ad7941e6d14
+      internalID: -767096244775740500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b411d35a2d9e94a48b74d2667d96fe28
+      internalID: 5964155642521475314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 150
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54102607812dc574abc2ab3e0d75667c
+      internalID: -8528961589365737581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 150
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f68b9981bf4ba44ac46a9f082de27a
+      internalID: -3380796058995875219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 150
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c88145e651665419ee013960597e12
+      internalID: -2964152790271712147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_22
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 150
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a0513fb19f93e4da80563b0709ab5b
+      internalID: -5621451157906280678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 150
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77b922a87f95a540b519aad3fa47c89
+      internalID: 8235691996014525380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cb412b467cbb04e8c63229f131e5e7
+      internalID: -9209988025482228648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_25
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 75
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a02ca4984a54a42b6494ea1081b0fc
+      internalID: -8663132736954213444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 75
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581eb3396663aec4db888be3bcaf0b00
+      internalID: 4637623504119628508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 75
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720c9c427703d374fbfaafadb706031e
+      internalID: 8307622217900527711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_28
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 75
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2f75603fae7f543b0b14bd027db12b
+      internalID: -1915054020084306186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 75
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4bdc5e57fc1504cb9b64d409c10c56
+      internalID: -3711798959927551747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 509009e1cbe56744f8f0a7cd8c3300a9
+      internalID: 2190869222142558121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949943e870bf11a4e9ea511445167b5b
+      internalID: 7897961717796852025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_32
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b995e249ddc8f440877e8e5ebafdb2b
+      internalID: -8772871283263367990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyMoveToLamp_33x75_33
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 33
+        height: 75
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b480b42000b654485a1b0901931c3c
+      internalID: 2143341625911408011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

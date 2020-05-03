@@ -12,6 +12,7 @@ public class DialogueManager : MonoBehaviour
     public TMP_Text nameText;
     public TMP_Text dialogueText;
     public bool dialogueFinished = false;
+    public bool textPlaying = false;
 
     void Start()
     {
@@ -28,6 +29,7 @@ public class DialogueManager : MonoBehaviour
 
     public void StartDialogue(Dialogue dialogue)
     {
+        textPlaying = true;
         EventSystem.current.SetSelectedGameObject(this.gameObject); 
         animator.SetBool("IsOpen", true);
         nameText.text = dialogue.name;
@@ -70,5 +72,6 @@ public class DialogueManager : MonoBehaviour
     {
         animator.SetBool("IsOpen", false);
         dialogueFinished = true;
+        textPlaying = false;
     }
 }

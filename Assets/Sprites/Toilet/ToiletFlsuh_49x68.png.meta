@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: f101586609815c049b523839c36d3709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8903319405855711791
+    second: ToiletFlsuh_49x68_0
+  - first:
+      213: 4335613033577767541
+    second: ToiletFlsuh_49x68_1
+  - first:
+      213: 6204488606968022455
+    second: ToiletFlsuh_49x68_2
+  - first:
+      213: -6008997452241405145
+    second: ToiletFlsuh_49x68_3
+  - first:
+      213: -1848203242475982068
+    second: ToiletFlsuh_49x68_4
+  - first:
+      213: 3853917344172559629
+    second: ToiletFlsuh_49x68_5
+  - first:
+      213: -2584842088601023467
+    second: ToiletFlsuh_49x68_6
+  - first:
+      213: 3409209526032501504
+    second: ToiletFlsuh_49x68_7
+  - first:
+      213: 1357928398742381547
+    second: ToiletFlsuh_49x68_8
+  - first:
+      213: 8366534621754291344
+    second: ToiletFlsuh_49x68_9
+  - first:
+      213: 2289403350839766805
+    second: ToiletFlsuh_49x68_10
+  - first:
+      213: -1498246143886242920
+    second: ToiletFlsuh_49x68_11
+  - first:
+      213: 6978353144447827403
+    second: ToiletFlsuh_49x68_12
+  - first:
+      213: -5359532431003396197
+    second: ToiletFlsuh_49x68_13
+  - first:
+      213: 2546698747116852405
+    second: ToiletFlsuh_49x68_14
+  - first:
+      213: -6068049160066030088
+    second: ToiletFlsuh_49x68_15
+  - first:
+      213: 3369297258660706384
+    second: ToiletFlsuh_49x68_16
+  - first:
+      213: -576107636776437532
+    second: ToiletFlsuh_49x68_17
+  - first:
+      213: 7801301681665997254
+    second: ToiletFlsuh_49x68_18
+  - first:
+      213: -7037703520162677867
+    second: ToiletFlsuh_49x68_19
+  - first:
+      213: -1232219013947913652
+    second: ToiletFlsuh_49x68_20
+  - first:
+      213: -6207286124530461116
+    second: ToiletFlsuh_49x68_21
+  - first:
+      213: 382687099982112833
+    second: ToiletFlsuh_49x68_22
+  - first:
+      213: 598513118931775371
+    second: ToiletFlsuh_49x68_23
+  - first:
+      213: 1528373993391312929
+    second: ToiletFlsuh_49x68_24
+  - first:
+      213: -8554991152807277988
+    second: ToiletFlsuh_49x68_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a1fa68ba4f9b419f959009ef8095e
+      internalID: -8903319405855711791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 272
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0abf3261d72b14e9133793a01cd349
+      internalID: 4335613033577767541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 272
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b277bb4c7e53f7c4f8c1b8e1426cc1ef
+      internalID: 6204488606968022455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 272
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28513108c3c4f24da08fe1409319d1d
+      internalID: -6008997452241405145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 272
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c9ac00638e2cb4b871d9ae09ae14b2
+      internalID: -1848203242475982068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_5
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 272
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9470aeafcc3d18a48b9e82313acaf825
+      internalID: 3853917344172559629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0c247cea89e44bbfb56aef85e42f2
+      internalID: -2584842088601023467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 204
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6eb848641e01a49b28e65ac81f2049
+      internalID: 3409209526032501504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 204
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fa127bbce07fc4e89d9abf26712c25
+      internalID: 1357928398742381547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 204
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2fbbdc124b4914c9984e3592420be3
+      internalID: 8366534621754291344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 204
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd59645e3011deb429691cb32cbe0c10
+      internalID: 2289403350839766805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_11
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 204
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163ea771da236b747965aeff80885009
+      internalID: -1498246143886242920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860081e5587e52d498392e73024ad071
+      internalID: 6978353144447827403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 136
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229e92b44f5c19459be0f9093ff0722
+      internalID: -5359532431003396197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 136
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aba8a08fef25f4780f2a82d8d4959b
+      internalID: 2546698747116852405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_15
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 136
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047811efde5709a48aecb7679cd241b4
+      internalID: -6068049160066030088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 136
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea28efd0f4ca1549bfaa3a623455685
+      internalID: 3369297258660706384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_17
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 136
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768dc897738b826469f7f27d93b35b47
+      internalID: -576107636776437532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2ab2b0224b75a42af04e7963b1c466
+      internalID: 7801301681665997254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 68
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c20a4c30badd0044ba90b608e94a6f9
+      internalID: -7037703520162677867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_20
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 68
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43be9d7f8f9c3e41a41009680cc052d
+      internalID: -1232219013947913652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_21
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 68
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c138b9c45eea30d4b9606d100a553f3c
+      internalID: -6207286124530461116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 68
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66c5c9710267794ca4585180ca2f95f
+      internalID: 382687099982112833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 68
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39d393860cc5a45b01755e65a6da18
+      internalID: 598513118931775371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ada6bf5143b62f4da4551339920cd07
+      internalID: 1528373993391312929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ToiletFlsuh_49x68_25
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 49
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f2ebade73a97149afa62b886b4cc26
+      internalID: -8554991152807277988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,643 @@
+fileFormatVersion: 2
+guid: bbfd21abe146ba2438155275fe110ae0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4959975576921690514
+    second: G_walkLeft_ToLooRoll_100x37_0
+  - first:
+      213: -999477610218632567
+    second: G_walkLeft_ToLooRoll_100x37_1
+  - first:
+      213: 8389185893266314491
+    second: G_walkLeft_ToLooRoll_100x37_2
+  - first:
+      213: -7556562493466173415
+    second: G_walkLeft_ToLooRoll_100x37_3
+  - first:
+      213: 324104849215489825
+    second: G_walkLeft_ToLooRoll_100x37_4
+  - first:
+      213: -2177164302677396268
+    second: G_walkLeft_ToLooRoll_100x37_5
+  - first:
+      213: -3091515422447728975
+    second: G_walkLeft_ToLooRoll_100x37_6
+  - first:
+      213: 1051175541752318396
+    second: G_walkLeft_ToLooRoll_100x37_7
+  - first:
+      213: 5901515049046718114
+    second: G_walkLeft_ToLooRoll_100x37_8
+  - first:
+      213: -4458595982985985599
+    second: G_walkLeft_ToLooRoll_100x37_9
+  - first:
+      213: -7962030296646206212
+    second: G_walkLeft_ToLooRoll_100x37_10
+  - first:
+      213: -781590358730416433
+    second: G_walkLeft_ToLooRoll_100x37_11
+  - first:
+      213: 221833375550847616
+    second: G_walkLeft_ToLooRoll_100x37_12
+  - first:
+      213: 3512699522086110233
+    second: G_walkLeft_ToLooRoll_100x37_13
+  - first:
+      213: 6156074724707239103
+    second: G_walkLeft_ToLooRoll_100x37_14
+  - first:
+      213: -6416475757851036452
+    second: G_walkLeft_ToLooRoll_100x37_15
+  - first:
+      213: -3966797130937753177
+    second: G_walkLeft_ToLooRoll_100x37_16
+  - first:
+      213: 6939276097851656200
+    second: G_walkLeft_ToLooRoll_100x37_17
+  - first:
+      213: -7056360180898622941
+    second: G_walkLeft_ToLooRoll_100x37_18
+  - first:
+      213: -3061676548418554466
+    second: G_walkLeft_ToLooRoll_100x37_19
+  - first:
+      213: 5733098339947255485
+    second: G_walkLeft_ToLooRoll_100x37_20
+  - first:
+      213: -1503995187188036652
+    second: G_walkLeft_ToLooRoll_100x37_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 148
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ffe221e3e2a9d488144612c87674b2
+      internalID: 4959975576921690514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 148
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc629c376eb2b647a14bedeb88cabcf
+      internalID: -999477610218632567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 148
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dc5b203182c2342bbd86b2fb2ba67c
+      internalID: 8389185893266314491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 148
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1680da5991ba144d9feda78b6af616a
+      internalID: -7556562493466173415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 148
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3e8d8fc2a29364f928f6a08a570c8c
+      internalID: 324104849215489825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf04f0964492564bbd5db15871dae67
+      internalID: -2177164302677396268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 111
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c8ff74c0700c4db8d4a28254dd017
+      internalID: -3091515422447728975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 111
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b583b06457c3df4cae5e58a154b703a
+      internalID: 1051175541752318396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 111
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1057b5fedef4c409349410801e39a2
+      internalID: 5901515049046718114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 111
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1baebe87c40fd4428c3954a470b0ce8
+      internalID: -4458595982985985599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad06d796ca38b84a81d9c05491fcf09
+      internalID: -7962030296646206212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 74
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30fe21f362f947e4294b1ef12a77472a
+      internalID: -781590358730416433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 74
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64205dc21908564fa30a25ad2815bb0
+      internalID: 221833375550847616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 74
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95696248b4749240b78671e7cfdfe9a
+      internalID: 3512699522086110233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 74
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e2f7f2f6009bd469faa12c6144da2f
+      internalID: 6156074724707239103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 37
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7e2c107d9dd054cb8ac09d91439149
+      internalID: -6416475757851036452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_16
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 37
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316df3724d790a24ca892d8206b8f085
+      internalID: -3966797130937753177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713589787e1d2d44dbd8bb487084b561
+      internalID: 6939276097851656200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 37
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25ac47dbd9ebdc46b81eb94211168bc
+      internalID: -7056360180898622941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_19
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 37
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc64d45944915f2409630f332f5f1f05
+      internalID: -3061676548418554466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872dba20335888d47a1d1ac7ce754555
+      internalID: 5733098339947255485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: G_walkLeft_ToLooRoll_100x37_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 37
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af50115605c6ea42a29015d0a3483ad
+      internalID: -1503995187188036652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

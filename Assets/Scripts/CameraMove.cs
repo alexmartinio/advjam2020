@@ -5,21 +5,29 @@ using System;
 public class CameraMove : MonoBehaviour
 {
     [SerializeField] float keyboardDragSpeed = 200;
+    [SerializeField] GameObject dialogueManager;
+
+    DialogueManager _dialogueManager;
+
+    private void Start()
+    {
+        _dialogueManager = dialogueManager.GetComponent<DialogueManager>();
+    }
 
     void Update()
     {
-        if (_State == State.None && Input.GetMouseButtonDown(0)) InitDrag();
+        if (_State == State.None && Input.GetMouseButtonDown(0) && _dialogueManager.textPlaying == false) InitDrag();
 
         if (_State == State.Dragging && Input.GetMouseButton(0)) MoveCamera();
 
         if (_State == State.Dragging && Input.GetMouseButtonUp(0)) FinishDrag();
 
 
-        if(Input.GetKey(KeyCode.LeftArrow))
+        if(Input.GetKey(KeyCode.LeftArrow) && _dialogueManager.textPlaying == false )
         {
             transform.Translate(-1 * Time.deltaTime * keyboardDragSpeed, 0f, 0f);
         }
-        else if (Input.GetKey(KeyCode.RightArrow))
+        else if (Input.GetKey(KeyCode.RightArrow) && _dialogueManager.textPlaying == false )
         {
             transform.Translate(1 * Time.deltaTime * keyboardDragSpeed, 0f, 0f);
         }
